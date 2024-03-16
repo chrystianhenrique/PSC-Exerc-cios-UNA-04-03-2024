@@ -15,7 +15,6 @@ public class CalculadoraIPI {
         System.out.print("Quantidade de peças: ");
         int quantidadePecas1 = scanner.nextInt();
         
-        // Solicita ao usuário que insira os dados da peça 2
         System.out.println("Insira os dados da peça 2:");
         System.out.print("Código da peça: ");
         int codigoPeca2 = scanner.nextInt();
